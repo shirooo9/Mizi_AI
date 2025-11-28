@@ -1,0 +1,7 @@
+streamlit
+requests
+psutil
+qrcode
+Pillow
+rembg
+onnxruntime
